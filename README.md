@@ -1,4 +1,5 @@
-# Cryptocurrency-REST-API-Django
+# Cryptocurrency-Django-API
+
 API built with Django REST Framework
 
 ## Getting Started
@@ -11,6 +12,7 @@ This tutorial works on **Python 3+** and Django 2+.
 Celery
 RabbitMQ
 Docker
+Postgres
 ```
 
 

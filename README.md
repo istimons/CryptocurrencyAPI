@@ -5,6 +5,15 @@ API built with Django REST Framework
 
 This tutorial works on **Python 3+** and Django 2+.
 
+## Requirements
+
+```
+Celery
+RabbitMQ
+Docker
+```
+
+
 Install dependencies:
 
 ```

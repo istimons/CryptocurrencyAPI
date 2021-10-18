@@ -25,5 +25,3 @@ celery -A cryptocurrencytrack worker -l info
 ```
 
 
-## Docker Services
-
